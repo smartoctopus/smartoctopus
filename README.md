@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @smartoctopus
 - 👀 I’m interested in Programming Languages
 - 🌱 I’m currently learning the full C programming language
-- 📫 How to reach me: cppisbad on reddit
 
 <!---
 smartoctopus/smartoctopus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
